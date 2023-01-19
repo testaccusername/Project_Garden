@@ -1,0 +1,84 @@
+#sub{
+    width: 100px; height: 40px;
+    margin-left: 130px;
+    
+}
+h2{
+    color: rgb(4, 69, 14);
+    font-family:fantasy
+    
+}
+*{
+    color: rgb(31, 81, 80);
+    font-weight: bold;
+}
+#hi{
+    margin-left: 80px;
+    background-color: aliceblue;
+    float: right;
+    width: 240px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.why{
+    width: 100px;
+    background-color: blue;
+    
+}
+nav{
+    background-color: rgb(2, 101, 54);
+    height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    
+    color: rgb(190, 255, 176);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#omg{
+    margin-right: 30%;
+}
+.tab{
+    display: inline-block;
+    margin-left: 30px;
+}
+body{
+    background-color: rgb(147, 231, 211);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.container{
+    margin-left: 40px; margin-right: 40px;
+}
+img{
+    margin-left: 20px;
+    height: 200px;width: 200px;
+    border-radius: 20px;
+}
+
+#form{
+    padding-left: 30px;
+}
+
+footer{
+    background-color: aqua;
+    height: 30px;
+
+    width: 100%;
+    text-align: center;
+}
+#Menu{
+    background-color: aquamarine;
+}
+#move{
+    float: right;
+    margin-top: 110px;
+}
+#contact{
+    background-color: rgb(62, 245, 199);
+}
+#div23{
+    background-color: rgb(178, 247, 226);
+}
